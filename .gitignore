@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+chroma_db/
+lib/
+logs/
+outputs/
+.gradio/
+.vscode/
+*.pyc
+*.db
